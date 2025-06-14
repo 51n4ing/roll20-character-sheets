@@ -1,8 +1,8 @@
 {
   "html": "sheet.html",
   "css": "sheet.css",
-  "authors": "Your Name",
-  "roll20userid": "1234567",
+  "authors": "신아",
+  "roll20userid": "1214hiyan@gmail.com",
   "preview": "https://example.com/preview.png",
   "instructions": "Custom Call of Cthulhu character sheet with SAN auto-calc.",
   "sheet": "Call of Cthulhu 7E Custom"
