@@ -1,0 +1,9 @@
+{
+  "html": "sheet.html",
+  "css": "sheet.css",
+  "authors": "Your Name",
+  "roll20userid": "1234567",
+  "preview": "https://example.com/preview.png",
+  "instructions": "Custom Call of Cthulhu character sheet with SAN auto-calc.",
+  "sheet": "Call of Cthulhu 7E Custom"
+}
